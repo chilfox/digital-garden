@@ -1,3 +1,3 @@
 # 👋 Welcome
 
-This is my digital garden based on Quartz 4
+This is my digital garden built with Quartz 4
