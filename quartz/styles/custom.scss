@@ -1,3 +1,20 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+h1 {
+  color: #6870e3; // 深藍色
+}
+
+h2 {
+  color: #e74c3c; // 紅色
+}
+
+h3 {
+  color: #27ae60; // 綠色
+}
+
+[saved-theme="dark"] {
+  h1 { color: #74b9ff; }
+  h2 { color: #fd79a8; }
+  h3 { color: #00b894; }
+}
