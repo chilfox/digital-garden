@@ -15,7 +15,7 @@ const config: QuartzConfig = {
     analytics: {
       provider: "umami",
       websiteId: "3ad9fe4e-d5a8-4a04-9916-4e99f761b144",
-      host: "https://cloud.unami.is",
+      host: "https://cloud.umami.is",
     },
     locale: "zh-TW",
     baseUrl: "chilfox.github.io/digital-garden",
